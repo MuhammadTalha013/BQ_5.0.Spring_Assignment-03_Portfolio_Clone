@@ -18,4 +18,4 @@ This project is a clone of a simple portfolio website built using React and Tail
 
 1. Clone the repository: https://github.com/MuhammadTalha013/BQ_5.0.Spring_Assignment-03_Portfolio_Clone.git
 
-Live Link: bq-5-0-spring-assignment-03-portfolio-clone-munyzx763.vercel.app
+2.  Live Link: https://bq-5-0-spring-assignment-03-portfol.vercel.app/
